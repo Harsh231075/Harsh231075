@@ -1,4 +1,4 @@
-```md
+
 <!-- 
   Harsh Singh Baghel – GitHub Profile README
   Last updated: 2025
