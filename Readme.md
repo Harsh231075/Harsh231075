@@ -121,13 +121,13 @@ Community-driven learning platform with real-time AI doubt resolution
 ### Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/harsh231075">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/harsh-singh-baghel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com">
+  <a href="https://harshbaghel.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
@@ -138,13 +138,4 @@ Community-driven learning platform with real-time AI doubt resolution
   <sub>Always happy to talk about full-stack architecture, AI integration, or product-building.</sub><br>
   <sub>Feel free to open an issue or drop a message if something interests you.</sub>
 </div>
-```
 
-**Instructions before publishing:**
-
-1. Replace `YOUR_USERNAME`, `YOUR_LINKEDIN_USERNAME`, and `your-portfolio-link.com` with real links
-2. Optionally add a clean profile photo / avatar
-3. Consider adding a small animated tech badge strip or visitor count (optional – keep minimal)
-4. Most recruiters / founders prefer this level of clean formatting in 2024–2025
-
-Good luck! 🚀
